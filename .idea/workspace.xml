@@ -4,19 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22ed1ab4-d043-41a4-b057-4b7bdd62b144" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/neuronets.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/MatrixCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/PandasCalc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/bank.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements" afterDir="false" />
+    <list default="true" id="22ed1ab4-d043-41a4-b057-4b7bdd62b144" name="Changes" comment="init - lab-04">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab4/PandasCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/PandasCalc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,9 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;tramon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/tramon/neuronets.git&quot;,
+    &quot;accountId&quot;: &quot;c57348f2-45c8-4a42-9635-69cb45d7931d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2vA5dkp1gUq0MHFXceItZhDu82M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -44,23 +46,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Python.MatrixCalc.executor": "Run",
-    "Python.PandasCalc.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/projects/study/neuronets/lab4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Python.MatrixCalc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PandasCalc.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/projects/study/neuronets/lab4&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\projects\study\neuronets\lab4" />
       <recent name="C:\projects\study\neuronets" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.MatrixCalc">
+  <component name="RunManager" selected="Python.PandasCalc">
     <configuration name="MatrixCalc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="neuronets" />
       <option name="ENV_FILES" value="" />
@@ -107,8 +109,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.MatrixCalc" />
         <item itemvalue="Python.PandasCalc" />
+        <item itemvalue="Python.MatrixCalc" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +130,19 @@
       <option name="presentableId" value="Default" />
       <updated>1743575127758</updated>
     </task>
+    <task id="LOCAL-00001" summary="init - lab-04">
+      <option name="closed" value="true" />
+      <created>1743592051050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743592051050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init - lab-04" />
+    <option name="LAST_COMMIT_MESSAGE" value="init - lab-04" />
   </component>
 </project>
