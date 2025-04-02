@@ -1,0 +1,21 @@
+# IntelliJ Project Files
+.idea
+*.iml
+*.ipr
+*.iws
+misc.xml
+workspace.xml
+
+# Python
+venv
+
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Other
+.git
+
+
